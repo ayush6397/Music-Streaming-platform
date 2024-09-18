@@ -1,6 +1,6 @@
 # Music-Streaming-platform
 
-This is a basic Spotify clone project made with HTML, CSS, and JavaScript. It allows users to play, pause, and switch between songs.
+This is a basic Music Streaming platform project made with HTML, CSS, and JavaScript. It allows users to play, pause, and switch between songs.
 
 ## Features
 
